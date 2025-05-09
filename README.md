@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0012-integer-to-roman) |
+| [0141-linked-list-cycle](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0290-word-pattern) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0141-linked-list-cycle](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0908-middle-of-the-linked-list) |
 ## String Matching
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0908-middle-of-the-linked-list) |
