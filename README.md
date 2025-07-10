@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0164-maximum-gap) |
+| [0219-contains-duplicate-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1293-three-consecutive-odds](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1293-three-consecutive-odds) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0290-word-pattern) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
