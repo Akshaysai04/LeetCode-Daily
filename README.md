@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 ## Database
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
