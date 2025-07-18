@@ -178,4 +178,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
