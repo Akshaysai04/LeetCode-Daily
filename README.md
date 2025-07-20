@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0164-maximum-gap) |
+| [0204-count-primes](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0229-majority-element-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0227-basic-calculator-ii) |
 ## Trie
@@ -205,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
