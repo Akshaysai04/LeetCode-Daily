@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0227-basic-calculator-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Enumeration
 |  |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0152-maximum-product-subarray) |
 ## Matrix
