@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0229-majority-element-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0227-basic-calculator-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0455-assign-cookies) |
