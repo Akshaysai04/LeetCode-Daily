@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0682-baseball-game) |
