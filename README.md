@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0682-baseball-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0941-sort-array-by-parity) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0645-set-mismatch) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0191-number-of-1-bits) |
+| [0645-set-mismatch](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0941-sort-array-by-parity) |
 ## Bucket Sort
 |  |
