@@ -4,15 +4,12 @@ class Solution {
         int i = 0, j = s.length() - 1;
 
         while (i < j) {
-            // move i forward until vowel
             while (i < j && !isVowel(a[i])) {
                 i++;
             }
-            // move j backward until vowel
             while (i < j && !isVowel(a[j])) {
                 j--;
             }
-            // now both are vowels, swap
             char temp = a[i];
             a[i] = a[j];
             a[j] = temp;
