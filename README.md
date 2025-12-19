@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0455-assign-cookies) |
