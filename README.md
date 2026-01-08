@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -363,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
