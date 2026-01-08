@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1448-maximum-69-number) |
