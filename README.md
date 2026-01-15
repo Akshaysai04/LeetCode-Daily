@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1768-merge-strings-alternately) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0941-sort-array-by-parity) |
