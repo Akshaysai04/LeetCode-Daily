@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2942-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1448-maximum-69-number) |
 | [2155-find-missing-observations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2155-find-missing-observations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
