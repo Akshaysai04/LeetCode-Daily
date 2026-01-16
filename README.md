@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2000-reverse-prefix-of-word) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3110-score-of-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
