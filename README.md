@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2155-find-missing-observations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2155-find-missing-observations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0941-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3467-transform-array-by-parity) |
 ## Bucket Sort
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1448-maximum-69-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Queue
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Prefix Sum
 |  |
 | ------- |
