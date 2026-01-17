@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2155-find-missing-observations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2574-left-and-right-sum-differences](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2974-minimum-number-game) |
@@ -433,4 +434,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2574-left-and-right-sum-differences](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
