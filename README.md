@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1293-three-consecutive-odds) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1470-shuffle-the-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
