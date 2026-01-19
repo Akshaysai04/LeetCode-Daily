@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0977-squares-of-a-sorted-array) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1293-three-consecutive-odds](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1293-three-consecutive-odds) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0645-set-mismatch) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0605-can-place-flowers) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1448-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
