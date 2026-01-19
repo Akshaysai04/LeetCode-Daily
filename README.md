@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1480-running-sum-of-1d-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1652-defuse-the-bomb](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1652-defuse-the-bomb) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1652-defuse-the-bomb) |
 ## Binary Search
 |  |
 | ------- |
