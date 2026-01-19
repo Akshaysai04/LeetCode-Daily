@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2155-find-missing-observations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1448-maximum-69-number) |
 | [2155-find-missing-observations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2155-find-missing-observations) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3467-transform-array-by-parity](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
