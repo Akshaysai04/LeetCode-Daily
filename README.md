@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2155-find-missing-observations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2155-find-missing-observations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3794-reverse-string-prefix) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2155-find-missing-observations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2974-minimum-number-game) |
 ## Tree
