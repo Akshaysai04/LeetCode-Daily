@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2155-find-missing-observations) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2769-find-the-maximum-achievable-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
