@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0682-baseball-game) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0059-spiral-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
