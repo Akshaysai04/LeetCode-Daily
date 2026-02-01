@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3668-restore-finishing-order](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2974-minimum-number-game) |
+| [3701-compute-alternating-sum](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3701-compute-alternating-sum) |
 ## Tree
 |  |
 | ------- |
