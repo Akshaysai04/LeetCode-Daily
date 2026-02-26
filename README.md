@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0204-count-primes) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0152-maximum-product-subarray) |
@@ -493,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2574-left-and-right-sum-differences) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
