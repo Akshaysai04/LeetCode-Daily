@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0771-jewels-and-stones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1512-number-of-good-pairs) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0409-longest-palindrome) |
+| [0771-jewels-and-stones](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
