@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2942-find-words-containing-character) |
