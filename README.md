@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1652-defuse-the-bomb) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1448-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1512-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2155-find-missing-observations) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0645-set-mismatch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Linked List
 |  |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -518,4 +522,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
