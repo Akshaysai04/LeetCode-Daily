@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0227-basic-calculator-ii) |
+| [0326-power-of-three](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0326-power-of-three) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1448-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1512-number-of-good-pairs) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
 | ------- |
