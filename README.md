@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
 ## Sorting
 |  |
