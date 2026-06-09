@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0096-unique-binary-search-trees) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
