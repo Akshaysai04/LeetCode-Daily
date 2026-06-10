@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0455-assign-cookies) |
