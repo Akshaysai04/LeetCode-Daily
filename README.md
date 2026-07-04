@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0227-basic-calculator-ii) |
 | [0326-power-of-three](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0441-arranging-coins) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1448-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1512-number-of-good-pairs) |
