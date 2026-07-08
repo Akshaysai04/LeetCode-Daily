@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0227-basic-calculator-ii) |
 | [0682-baseball-game](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0682-baseball-game) |
@@ -545,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
