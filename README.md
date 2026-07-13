@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0055-jump-game) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0077-combinations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
