@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0051-n-queens) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0052-n-queens-ii) |
