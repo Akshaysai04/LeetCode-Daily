@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0227-basic-calculator-ii) |
+| [0282-expression-add-operators](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0383-ransom-note) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0227-basic-calculator-ii) |
+| [0282-expression-add-operators](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0441-arranging-coins) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0090-subsets-ii) |
+| [0282-expression-add-operators](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0282-expression-add-operators) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
