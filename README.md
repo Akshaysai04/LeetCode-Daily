@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0031-next-permutation) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0141-linked-list-cycle) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0148-sort-list) |
