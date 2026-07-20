@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0682-baseball-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2000-reverse-prefix-of-word) |
 ## Counting
