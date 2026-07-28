@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2974-minimum-number-game) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3467-transform-array-by-parity) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2965-find-missing-and-repeated-values) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0908-middle-of-the-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
