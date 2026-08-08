@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0219-contains-duplicate-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0287-find-the-duplicate-number) |
