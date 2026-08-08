@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 ## Database
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0389-find-the-difference) |
