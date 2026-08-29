@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1448-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2155-find-missing-observations) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -633,4 +636,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
