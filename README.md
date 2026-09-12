@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1512-number-of-good-pairs](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1672-richest-customer-wealth) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1920-build-array-from-permutation) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0059-spiral-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akshaysai04/LeetCode-Daily/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
